@@ -1,2 +1,2 @@
 # manage.dangerous
-危险品后台管理系统
+危险品检查App for Android
